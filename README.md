@@ -1,7 +1,7 @@
 # TTP 201 Applied Data Analysis
 Skills for examining, parsing, and analyzing datasets to answer research questions. Application of concepts from econometrics, statistics, and machine learning.
 
-### Course Description:
+### Course Description :
 
 This course aims to provide students with the resources needed to examine, parse, and analyze
 datasets (with a specific aim for answering research questions). This data analysis course
